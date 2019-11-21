@@ -7,7 +7,7 @@ TL;DR - Atleast one time  in your programming life, you may come across this kin
 A File with control chars.
 
 ```bash
-mymachine$ cat -v 2018-04-16_01-29-42_rx5755_uSxfjOL58SXrmPGfkw43LdHaOFBm0f7uDSLzQuIapl.data
+mymac_machine$ cat -v 2018-04-16_01-29-42_rx5755_uSxfjOL58SXrmPGfkw43LdHaOFBm0f7uDSLzQuIapl.data
 Script started on Mon 16 Apr 2018 01:29:42 AM EDT
 To run a command as administrator (user "root"), use "sudo <command>".^M
 See "man sudo_root" for details.^M
