@@ -31,3 +31,4 @@ files = [f for f in os.listdir('.') if os.path.isfile(f)]
 for each_file in files:
 	if each_file.split('.')[-1] == "data":
 		parse_each(each_file)
+
