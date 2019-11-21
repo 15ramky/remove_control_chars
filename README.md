@@ -5,7 +5,7 @@
 TL;DR - Atleast one time  in your programming life, you may come across this kind of task, "Removing the controlling chars from the file"
 
 A File with control chars.
----
+
 mymachine$ cat -v 2018-04-16_01-29-42_rx5755_uSxfjOL58SXrmPGfkw43LdHaOFBm0f7uDSLzQuIapl.data\
 Script started on Mon 16 Apr 2018 01:29:42 AM EDT\
 To run a command as administrator (user "root"), use "sudo <command>".^M\
@@ -18,11 +18,9 @@ total 32K^M\
 -rwxrwxr-x 1 rx5755 rx5755 8.5K Apr 15 20:16 ^[[0m^[[01;32mhelloworld^[[0m^M\
 -rw-rw-r-- 1 rx5755 rx5755   10 Apr 15 22:40 delete.file^M\
 [2018-04-16 01:29:44][rx5755@webubuntu ~] $~ exit^M
----
 
 to a file without control chars
 
----
 mymac_machine$ cat 2018-04-16_01-29-42_rx5755_uSxfjOL58SXrmPGfkw43LdHaOFBm0f7uDSLzQuIapl.data\
 Script started on Mon 16 Apr 2018 01:29:42 AM EDT\
 To run a command as administrator (user "root"), use "sudo <command>".\
@@ -34,6 +32,5 @@ total 32K\
 -rw-rw-r-- 1 rx5755 rx5755   73 Apr 15 20:16 helloworld.c\
 -rwxrwxr-x 1 rx5755 rx5755 8.5K Apr 15 20:16 helloworld\
 -rw-rw-r-- 1 rx5755 rx5755   10 Apr 15 22:40 delete.file
----
 
 ## How to run
