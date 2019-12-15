@@ -1,0 +1,12 @@
+mymac_machine$ cat -v 2018-04-16_01-29-42_rk2130_uSxfjOL58SXrmPGfkw43LdHaOFBm0f7uDSLzQuIapl.data
+Script started on Mon 16 Apr 2018 01:29:42 AM EDT
+To run a command as administrator (user "root"), use "sudo <command>".^M
+See "man sudo_root" for details.^M
+^M
+[2018-04-16 01:29:43][rk2130@webubuntu ~] $~ ls -ltrh^M
+total 32K^M
+-rw-r--r-- 1 rk2130 rk2130 8.8K Mar 30 18:11 examples.desktop^M
+-rw-rw-r-- 1 rk2130 rk2130   73 Apr 15 20:16 helloworld.c^M
+-rwxrwxr-x 1 rk2130 rk2130 8.5K Apr 15 20:16 ^[[0m^[[01;32mhelloworld^[[0m^M
+-rw-rw-r-- 1 rk2130 rk2130   10 Apr 15 22:40 delete.file^M
+[2018-04-16 01:29:44][rk2130@webubuntu ~] $~ exit^M

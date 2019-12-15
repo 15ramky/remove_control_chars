@@ -27,6 +27,7 @@ def parse_each(each_file):
                 out_f.write(line)
             anim.screen_anim(" -- DONE\n")
 
+# taking all the .data files in the current directory
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
 for each_file in files:
 	if each_file.split('.')[-1] == "data":
