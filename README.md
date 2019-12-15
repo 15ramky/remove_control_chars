@@ -35,9 +35,11 @@ total 32K
 -rw-rw-r-- 1 rx5755 rx5755   10 Apr 15 22:40 delete.file
 ```
 ## How to run
+```sh
 krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ --> python remove_control_chars.py \
 Processing ...test.data -- DONE \
 krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ --> \
+```
 
 ## Result files
 The python script will result the all the input files with .result files
