@@ -36,9 +36,9 @@ total 32K
 ```
 ## How to run
 ```sh
-krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ --> python remove_control_chars.py \
-Processing ...test.data -- DONE \
-krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ --> \
+krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ --> python remove_control_chars.py
+Processing ...test.data -- DONE
+krishna@RamakrishnasMBP:~/remove_control_chars$ 💃🏏🍎🌴 ☕️ -->
 ```
 
 ## Result files
